@@ -40,9 +40,6 @@ public class HomeWorkApp {
         } else {
 
             System.out.println("a<b");
-            System.out.println("a<b");
-            System.out.println("a<b");
         }
     }
 }
-// Проверка Коммита :)
